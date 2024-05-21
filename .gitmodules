@@ -4,3 +4,6 @@
 [submodule "answer-scanner-app-special"]
 	path = answer-scanner-app-special
 	url = git@github.com:IvShilin/answer-scanner-app-special.git
+[submodule "backend-plus-model"]
+	path = backend-plus-model
+	url = git@github.com:IvShilin/backend-plus-model.git
