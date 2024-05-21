@@ -1,3 +1,6 @@
 [submodule "aurora-app-special"]
 	path = aurora-app-special
 	url = git@github.com:IvShilin/aurora-app-special.git
+[submodule "answer-scanner-app"]
+	path = answer-scanner-app
+	url = git@github.com:IvShilin/answer-scanner-app.git
