@@ -1,3 +1,6 @@
 [submodule "aurora-app"]
 	path = aurora-app
 	url = git@github.com:IvShilin/aurora-app.git
+[submodule "aurora-app-special"]
+	path = aurora-app-special
+	url = git@github.com:IvShilin/aurora-app-special.git
